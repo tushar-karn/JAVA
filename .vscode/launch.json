@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PrintHalfPiramid",
+      "request": "launch",
+      "mainClass": "Functions.PrintHalfPiramid",
+      "projectName": "JAVA_747346e0"
+    },
+    {
+      "type": "java",
+      "name": "PrintHalfPiramid",
+      "request": "launch",
+      "mainClass": "PrintHalfPiramid",
+      "projectName": "JAVA_747346e0"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "Functions.factorial",
+      "projectName": "JAVA_747346e0"
+    },
+    {
+      "type": "java",
+      "name": "abc",
+      "request": "launch",
+      "mainClass": "Functions.abc",
+      "projectName": "JAVA_747346e0"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/dilip/OneDrive/Desktop/Comeback/Patterns",
+      "program": "c:/Users/dilip/OneDrive/Desktop/Comeback/Patterns/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
