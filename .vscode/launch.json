@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GFG",
+      "request": "launch",
+      "mainClass": "GFG",
+      "projectName": "JAVA_747346e0"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "ClassWork.q1",
+      "projectName": "JAVA_747346e0"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "ClassWork.q2",
+      "projectName": "JAVA_747346e0"
+    },
+    {
+      "type": "java",
       "name": "PrintHalfPiramid",
       "request": "launch",
       "mainClass": "Functions.PrintHalfPiramid",
