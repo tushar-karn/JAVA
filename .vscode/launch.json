@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "printAllPrimesInRange",
+      "request": "launch",
+      "mainClass": "printAllPrimesInRange",
+      "projectName": "JAVA_747346e0"
+    },
+    {
+      "type": "java",
       "name": "GFG",
       "request": "launch",
       "mainClass": "GFG",
