@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "linearSearch",
+      "request": "launch",
+      "mainClass": "Array.linearSearch",
+      "projectName": "JAVA_747346e0"
+    },
+    {
+      "type": "java",
       "name": "printAllPrimesInRange",
       "request": "launch",
       "mainClass": "printAllPrimesInRange",
