@@ -71,8 +71,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dilip/OneDrive/Desktop/Comeback/Array",
-      "program": "c:/Users/dilip/OneDrive/Desktop/Comeback/Array/build/Debug/outDebug",
+      "cwd": "c:/Users/dilip/OneDrive/Desktop/JAVA/ClassWork",
+      "program": "c:/Users/dilip/OneDrive/Desktop/JAVA/ClassWork/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
