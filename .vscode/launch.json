@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Array_06_02",
+      "request": "launch",
+      "mainClass": "Array_06_02",
+      "projectName": "JAVA_747346e0"
+    },
+    {
+      "type": "java",
       "name": "linearSearch",
       "request": "launch",
       "mainClass": "Array.linearSearch",
@@ -71,8 +78,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dilip/OneDrive/Desktop/JAVA/ClassWork",
-      "program": "c:/Users/dilip/OneDrive/Desktop/JAVA/ClassWork/build/Debug/outDebug",
+      "cwd": "c:/Users/dilip/OneDrive/Desktop/Comeback/Array",
+      "program": "c:/Users/dilip/OneDrive/Desktop/Comeback/Array/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
