@@ -3,7 +3,7 @@ class Animal{
     String color = "GRAY";
 }
 
-class Cat extends Animal{
+class Cat extends Anim1{
     String color = "BROWN";
 }
 class Human extends Cat{
